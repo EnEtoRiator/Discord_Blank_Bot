@@ -1,3 +1,4 @@
+# HOW TO USE:
 ## For work with this code you need directory structory:
 - data
   - servers
@@ -5,6 +6,9 @@
   - users
 
 Also you need have a file with name: `TOKEN` without any filename extension.
+
+# TODO:
+- pass
 
 Wait until update. Next update i'll try to explain what function created for and extend code.
 
